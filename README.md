@@ -17,4 +17,4 @@ cd ../dwm
 mv sxrc ~/.config/
 sudo make install
 ```
-edit ~/.config/sx/sxrc make status bar script autostart (optional)
+edit ~/.config/sx/sxrc to make status bar script autostart (optional)
