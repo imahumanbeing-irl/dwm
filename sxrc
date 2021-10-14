@@ -1,0 +1,12 @@
+#!/bin/sh
+WALLPAPER="path_to_wallpaper"
+
+# X settings
+xset r rate 275 30
+
+# Set wallpaper
+feh --no-fehbg --bg-fill "$WALLPAPER" 2> /dev/null || echo "$WALLPAPER does not exist..."
+
+# DWM related stuff
+# (run status bar script here)
+exec /usr/local/bin/dwm
