@@ -4,8 +4,9 @@
 
 ```
 yay -S nerd-fonts-fira-code
+git clone https://github.com/imahumanbeing-irl/dwm
+cd dwm
+mv .fonts.conf ~
+sudo make install
 ```
-
-place .fonts.conf in your home directory
-
-run status script in your sxrc (or .xinitrc)
+make status bar script autostart (optional)
