@@ -8,7 +8,7 @@
 
 ## installation
 
-NOTE: this assumes you dont a have a display manager and that you are using an arch derivative or arch itself
+NOTE: this assumes you dont a have a display manager, you are using an arch derivative or arch itself and you have yay installed
 
 ```
 sudo pacman -S feh
