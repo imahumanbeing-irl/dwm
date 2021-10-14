@@ -1,6 +1,10 @@
-# my dwm
+# green themed dwm
 
-## installation (NOT FOR NEWBS)
+## recommendations
+- install my fork of st too for it to look better
+- dont be a complete linux noob
+
+## installation (NOT FOR NOOS)
 
 NOTE: this assumes you dont a have a display manager, if you do, uninstall that bloat
 
@@ -20,3 +24,7 @@ mv sxrc ~/.config/
 sudo make install
 ```
 edit ~/.config/sxrc to set your wallpaper (optional)
+
+
+## patches
+- fullgaps
