@@ -8,5 +8,5 @@ xset r rate 275 30
 feh --no-fehbg --bg-fill "$WALLPAPER" 2> /dev/null || echo "$WALLPAPER does not exist..."
 
 # DWM related stuff
-status
+status &
 exec /usr/local/bin/dwm
