@@ -4,6 +4,7 @@
 - install my fork of st too for this to look better
 - dont be a complete linux noob
 - install artix linux
+- use a 1360x768 resolution
 
 ## installation
 
