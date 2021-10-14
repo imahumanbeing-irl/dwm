@@ -4,7 +4,7 @@
 - install my fork of st too for this to look better
 - dont be a complete linux noob
 
-## installation (NOT FOR NOOS)
+## installation
 
 NOTE: this assumes you dont a have a display manager, if you do, uninstall that bloat
 
