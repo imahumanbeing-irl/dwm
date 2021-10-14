@@ -1,7 +1,7 @@
 # green themed dwm
 
 ## recommendations
-- install my fork of st too for it to look better
+- install my fork of st too for this to look better
 - dont be a complete linux noob
 
 ## installation (NOT FOR NOOS)
