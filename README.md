@@ -1,4 +1,5 @@
 # green themed dwm
+![image](screenshot.png)
 
 ## recommendations
 - install my fork of st too for this to look better
@@ -17,12 +18,14 @@ git clone https://github.com/imahumanbeing-irl/dwm
 cd dwm
 mv .fonts.conf ~
 sudo mv status /usr/bin/
+rm ~/.config/neofetch/config.conf
+mv config.conf ~/.config/neofetch/
 cd ..
 git clone https://github.com/Earnestly/sx
 cd sx
 make PREFIX=/usr install
 cd ../dwm
-mv sxrc ~/.config/
+mv sxrc ~/.config/sx/
 sudo make install
 ```
 edit ~/.config/sxrc to set your wallpaper (optional)
