@@ -9,6 +9,7 @@ yay -S nerd-fonts-fira-code
 git clone https://github.com/imahumanbeing-irl/dwm
 cd dwm
 mv .fonts.conf ~
+sudo mv status /usr/bin/
 cd ..
 git clone https://github.com/Earnestly/sx
 cd sx
@@ -17,4 +18,3 @@ cd ../dwm
 mv sxrc ~/.config/
 sudo make install
 ```
-edit ~/.config/sx/sxrc to make status bar script autostart (optional)
