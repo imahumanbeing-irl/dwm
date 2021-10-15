@@ -2,10 +2,13 @@
 ![image](screenshot.png)
 
 ## recommendations
-- install my fork of st too for this to look better
-- dont be a complete linux noob
-- install artix linux
-- use a 1360x768 resolution
++ install my fork of st too for this to look better
++ dont be a complete linux noob
++ install artix linux
++ use a 1360x768 resolution
+
+## key bindings
++ **print screen** to save a picture to ~/Pictures
 
 ## installation
 
