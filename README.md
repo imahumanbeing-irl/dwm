@@ -8,7 +8,7 @@
 + use a 1360x768 resolution
 
 ## key bindings
-+ **print screen** to save a picture to ~/Pictures
++ **print screen** to save a screenshot to ~/Pictures
 
 ## installation
 
